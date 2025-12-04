@@ -35,6 +35,16 @@ You can download GenPhoto in two ways:
 
 ---
 
+---
+
+## Screenshots
+
+| Main Window | Example Result |
+|-------------|----------------|
+| ![Main Window](screenshots/GenPhoto-1.png) | ![Example Result](screenshots/GenPhoto-2.png) |
+
+
+
 ## Privacy & Safety
 
 - No cloud, no uploads  
